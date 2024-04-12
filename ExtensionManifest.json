@@ -1,0 +1,11 @@
+{
+    "type" : "IconPack",
+    "name" : "Helldivers2 Stratagems Icons",
+    "author" : "Glacir",
+    "repository" : "https://github.com/Glacir/Glacir.Helldivers2.Stratagems",
+    "packageId" : "Glacir.Helldivers2.Stratagems",
+    "version" : "1.0.0",
+    "target-plugin-api-version" : 40,
+    "target-macro-deck-version" : "2.13.0",
+    "dll" : ""
+}
